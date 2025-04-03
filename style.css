@@ -27,7 +27,7 @@ body {
 
 .cards {
   border-radius: 16px;
-  gap: 1rem;
+  gap: 1.5rem;
 }
 
 .card1 span {
@@ -43,7 +43,7 @@ body {
 
 .card1__content-bottom {
   display: flex;
-  padding: 1rem;
+  padding: 16px;
   margin-top: auto;
 }
 
@@ -60,7 +60,7 @@ body {
 
 .card2__content-bottom {
   display: flex;
-  padding: 1rem;
+  padding: 16px;
   margin-top: auto;
 }
 
@@ -77,7 +77,7 @@ body {
 
 .card3__content-bottom {
   display: flex;
-  padding: 1rem;
+  padding: 16px;
   margin-top: auto;
 }
 
@@ -115,20 +115,17 @@ body {
 .card1-precontent,
 .card2-precontent,
 .card3-precontent {
-  margin-bottom: 2.5px;
   padding: 10px;
 }
 
 .card1__content-top h2,
 .card2__content-top h2,
 .card3__content-top h2 {
-  margin-bottom: 2.5px;
   padding: 10px;
 }
 
 .card1__content-top p,
 .card2__content-top p,
 .card3__content-top p {
-  margin-top: 2.5px;
   padding: 10px;
 }
